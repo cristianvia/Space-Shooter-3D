@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 22089be28d27b6044b43df145fd76461
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - explosionEffect: {instanceID: 0}
+  - sonidoexplosion: {fileID: 5258428385905541649, guid: ec665923f9bcc8c4d99f7b9445f566b0,
+      type: 3}
+  - firstAidkit: {instanceID: 0}
+  - ammunition: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

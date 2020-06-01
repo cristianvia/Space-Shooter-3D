@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ScoreCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <scores>
+    <score name="n1" value="200" />
+    <score name="n2" value="300" />
+  </scores>
+</ScoreCollection>
